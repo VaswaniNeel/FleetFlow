@@ -1,0 +1,2 @@
+FleetFlow is a full-stack web application designed to streamline fleet operations through role-based dashboards and centralized management. The system enables efficient tracking of vehicles, drivers, trips, maintenance, and expenses while ensuring secure authentication and access control.
+It provides different dashboards for roles such as Manager, Dispatcher, Safety Officer, and Financial Analyst, ensuring controlled data visibility and operational clarity
